@@ -1,6 +1,4 @@
-/target
-**/*.rs.bk
-Cargo.lock
-*.log
-TODO.md
-*.code-workspace
+# Ignore common temporary files
+*~
+*.bak
+*.swp
